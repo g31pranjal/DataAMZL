@@ -7,3 +7,4 @@ from .models import Blocks,Station
 # Register your models here.
 
 admin.site.register(Station)
+admin.site.register(Blocks)
